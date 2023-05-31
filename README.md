@@ -5,7 +5,7 @@
 This is a quiz game that asks the user to sort a series of five numbers in ascending order. Each time a series of five random numbers are generated for the user. Drag and drop functionality is provided for arranging the numbers. Finally, the user can check if their solution is correct or wrong and reset the game.
 &nbsp;
 
-A live demo is available on the following link: [https://byte-learn.vercel.app/](https://byte-learn.vercel.app/)
+A live demo is available on the following link: [https://quizgame-beta.vercel.app/](https://quizgame-beta.vercel.app/)
 
 ## Installation
 
