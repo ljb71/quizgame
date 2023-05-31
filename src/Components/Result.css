@@ -1,0 +1,51 @@
+.body {
+    font-family: sans-serif;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(170, 204, 204);
+  }
+  img {
+    border-radius: 20px;
+  }  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    margin: 0 auto;
+    padding: 20px;
+  }  
+  .reset-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #2a4949;
+    font-size: large;
+    font-weight: 600;
+    border-radius: 8px;
+    color: #fafaef;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.3s ease-in-out;
+    text-shadow: 0px 0px 3px #000000;
+  }
+  
+  .result-message {
+    font-family: cursive;
+    font-size: 30px;
+    margin: 20px 0px;
+    margin-bottom: 30px;
+    font-weight: 800;
+    text-align: center;
+  }
+  
+  .correct .result-message {
+    color: #50ac23;
+  }
+  
+  .wrong .result-message {
+    color: #ff0000;
+  }
+  
